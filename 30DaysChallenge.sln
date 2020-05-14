@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Element", "Single Element\Single Element.csproj", "{45DBA2CC-4634-401F-8603-CDD66A19212E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max sum of contiguous subarray", "Max sum of contiguous subarray\Max sum of contiguous subarray.csproj", "{F8B0539A-B5D9-45A8-9B68-B0274CC8B1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Zeros to end", "Move Zeros to end\Move Zeros to end.csproj", "{96895990-6D7F-4D67-B1AC-20CAA3BDE51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{D5A5B432-D8DB-444B-A356-55EFE070501A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DBA2CC-4634-401F-8603-CDD66A19212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DBA2CC-4634-401F-8603-CDD66A19212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DBA2CC-4634-401F-8603-CDD66A19212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DBA2CC-4634-401F-8603-CDD66A19212E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B0539A-B5D9-45A8-9B68-B0274CC8B1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B0539A-B5D9-45A8-9B68-B0274CC8B1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B0539A-B5D9-45A8-9B68-B0274CC8B1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B0539A-B5D9-45A8-9B68-B0274CC8B1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96895990-6D7F-4D67-B1AC-20CAA3BDE51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96895990-6D7F-4D67-B1AC-20CAA3BDE51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96895990-6D7F-4D67-B1AC-20CAA3BDE51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96895990-6D7F-4D67-B1AC-20CAA3BDE51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A5B432-D8DB-444B-A356-55EFE070501A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A5B432-D8DB-444B-A356-55EFE070501A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A5B432-D8DB-444B-A356-55EFE070501A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A5B432-D8DB-444B-A356-55EFE070501A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6ACC8F-BCF1-41B5-B756-C2E1B522E907}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.exe
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.deps.json
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.runtimeconfig.json
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.runtimeconfig.dev.json
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.dll
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\bin\Debug\netcoreapp3.1\Max sum of contiguous subarray.pdb
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\obj\Debug\netcoreapp3.1\Max sum of contiguous subarray.csprojAssemblyReference.cache
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\obj\Debug\netcoreapp3.1\Max sum of contiguous subarray.AssemblyInfoInputs.cache
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\obj\Debug\netcoreapp3.1\Max sum of contiguous subarray.AssemblyInfo.cs
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\obj\Debug\netcoreapp3.1\Max sum of contiguous subarray.dll
+C:\Users\manu\source\repos\30DaysChallenge\Max sum of contiguous subarray\obj\Debug\netcoreapp3.1\Max sum of contiguous subarray.pdb

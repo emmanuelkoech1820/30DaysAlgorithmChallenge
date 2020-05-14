@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Max sum of contiguous subarray/1.0.0": {
+        "runtime": {
+          "Max sum of contiguous subarray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Max sum of contiguous subarray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
